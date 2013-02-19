@@ -1,5 +1,5 @@
 // you can get requires from  github.com/iamyellow/tiws   &   github.com/tipm/underscore
-//modified based on github.com/oortcloud/node-ddp-client.  
+//modification base on github.com/oortcloud/node-ddp-client.  
 
 var WebSocket = require('net.iamyellow.tiws').createWS();
 var _ = require('tipm-underscore');
